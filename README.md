@@ -33,14 +33,14 @@ background research and inspiration for this project: https://www.law.upenn.edu/
 https://www.usgovernmentspending.com/compare_state_spending_2017b40a
 
 #### I found a clear negative relationship between participation and test scores
-![](../images/scatter_act_participation_and_scores.png)
+![](/images/scatter_act_participation_and_scores.png)
 
 #### But among high participation testing states, data was more normally distributed and this useful for drawin insights
-![](../images/distribution_of_avg_act_scores.png)
+![](/images/distribution_of_avg_act_scores.png)
 
 
 #### The most interesting insight was the more than 1 standard deviation difference between high participation states with high and low welfare spending.
-![](../images/act_scores_top_bottom_50%_wf_spending.png)
+![](/images/act_scores_top_bottom_50%_wf_spending.png)
 Average ACT Score (Participation > 75%)
 **19.75**
 
