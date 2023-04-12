@@ -14,9 +14,9 @@ background research and inspiration for this project: https://www.law.upenn.edu/
 
 ## Description of Data
 ### Data Dictionary
-|Feature|Type|Dataset|Description|
-|---|---|---|---|
-|**state**|object|SAT Scores 2017-2019|U.S. State with year of observations appended to the end| 
+| Feature | Type | Dataset | Description |
+|-----|-----|-----|-----|
+| **state** | object | SAT Scores 2017-2019 | U.S. State with year of observations appended to the end | 
 |**participation_sat**|float|SAT Scores 2017-2019|The percentage of graduating students in a given state who took the SAT| 
 |**total_sat**|int|SAT Scores 2017-2019|The average total ACT score for students in a given state in a given year| 
 |**participation_act**|float|ACT Scores 2017-2019|The percentage of graduation students in a given state who took the ACT| 
