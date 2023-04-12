@@ -40,7 +40,7 @@ https://www.usgovernmentspending.com/compare_state_spending_2017b40a
 
 
 #### The most interesting insight was the more than 1 standard deviation difference between high participation states with high and low welfare spending.
-![](/images/act_scores_top_bottom_50%_wf_spending.png)
+![](/images/act_scores_top_bottom_50%25_wf_spending.png)
 Average ACT Score (Participation > 75%)
 **19.75**
 
